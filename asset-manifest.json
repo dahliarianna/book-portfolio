@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/book-portfolio/static/css/main.3c8630f6.css",
+    "main.js": "/book-portfolio/static/js/main.2f29f559.js",
+    "static/js/787.9fa61e37.chunk.js": "/book-portfolio/static/js/787.9fa61e37.chunk.js",
+    "static/media/all.jpg": "/book-portfolio/static/media/all.5303e7904761541488f3.jpg",
+    "static/media/IMG_0395.JPG": "/book-portfolio/static/media/IMG_0395.ba3af0d443ed98f43e4d.JPG",
+    "static/media/lavangphoto.jpeg": "/book-portfolio/static/media/lavangphoto.e9f2d57ee1d029a829e4.jpeg",
+    "static/media/milad_front.jpg": "/book-portfolio/static/media/milad_front.21e3eb7d784563461a77.jpg",
+    "static/media/milad_back.jpg": "/book-portfolio/static/media/milad_back.c3be7885f3fbf58b88b3.jpg",
+    "static/media/serene.png": "/book-portfolio/static/media/serene.f3697ca9c26b532b6120.png",
+    "static/media/milad_extra.jpg": "/book-portfolio/static/media/milad_extra.bd906de8d7a057bed660.jpg",
+    "static/media/milad_mid.jpg": "/book-portfolio/static/media/milad_mid.9234a9cc31e2c444aa1e.jpg",
+    "index.html": "/book-portfolio/index.html",
+    "main.3c8630f6.css.map": "/book-portfolio/static/css/main.3c8630f6.css.map",
+    "main.2f29f559.js.map": "/book-portfolio/static/js/main.2f29f559.js.map",
+    "787.9fa61e37.chunk.js.map": "/book-portfolio/static/js/787.9fa61e37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c8630f6.css",
+    "static/js/main.2f29f559.js"
+  ]
+}
